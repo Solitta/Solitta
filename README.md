@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Solitta
 - 👀 I’m interested in python and html.
 - 🌱 I’m currently learning html.
-- 📫 How to reach me ...
 
 <!---
 Solitta/Solitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
