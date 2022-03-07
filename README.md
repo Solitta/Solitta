@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Solitta
-- 👀 I’m interested in python and html.
-- 🌱 I’m currently learning html.
+- 💯 I know HTML.
+- 👀 I’m interested in python , html and css.
+- 🌱 I’m currently learning CSS.
 
 <!---
 Solitta/Solitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
