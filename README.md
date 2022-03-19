@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Solitta
-- 💯 I know HTML.
+- 💯 I know HTML and beginner PYTHON.
 - 👀 I’m interested in python , html and css.
 - 🌱 I’m currently learning CSS.
 
