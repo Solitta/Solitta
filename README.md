@@ -2,7 +2,7 @@
 - 💯 I know HTML and beginner PYTHON.
 - 👀 I’m interested in python , html and css.
 - 🌱 I’m currently learning CSS.
-- https://www.buymeacoffee.com/umutlord38p
+
 
 
 <!---
